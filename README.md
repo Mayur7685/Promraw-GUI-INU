@@ -5,7 +5,7 @@
 **Promraw** is an AI-powered creative platform that transforms casual doodling into a competitive, rewarding social experience. Users submit daily sketches based on AI-generated prompts, compete on leaderboards, and earn rewards through the **$GUI token** ecosystem on the **Aptos blockchain**. Built for the **GUI INU Ideathon**, Promraw combines creativity, gamification, and decentralized finance to make NFTs exciting and accessible.
 
 [![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://promraw-app.vercel.app/)
-[![Twitter](https://img.shields.io/badge/Twitter-@PromrawAI-1DA1F2)](https://twitter.com/MayurAsodara)
+[![Twitter](https://img.shields.io/badge/Twitter-@MayurAsodara-1DA1F2)](https://twitter.com/MayurAsodara)
 [![GUI INU](https://img.shields.io/badge/Built%20for-GUI%20INU%20Ideathon-orange)](https://gui-inu.com)
 
 ---
